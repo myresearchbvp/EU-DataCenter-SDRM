@@ -1,6 +1,11 @@
 # Supplementary Material – Spatial Decision Robustness Mapping for Geo-Distributed Data Center Siting in Europe
 
+## Open in Colab
+
+**Notebook 1 – Build and validate the Eurostat decision matrix**  
 [![Open Notebook 1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/myresearchbvp/EU-DataCenter-SDRM/blob/main/notebooks/01_build_eurostat_decision_matrix.ipynb)
+
+**Notebook 2 – Run the spatial decision robustness dashboard**  
 [![Open Notebook 2 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/myresearchbvp/EU-DataCenter-SDRM/blob/main/notebooks/02_spatial_decision_robustness_dashboard.ipynb)
 
 ## About this repository
