@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+shapely
+requests
+openpyxl
+ipywidgets
+folium
+branca
+scipy
+scikit-learn
+jupyter
+notebook
