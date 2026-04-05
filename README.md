@@ -14,7 +14,7 @@ This repository contains the reproducible analytical workflow used in our study 
 
 The workflow is organized in two notebooks:
 - **Notebook 1** builds and validates the Eurostat decision matrix
-- **Notebook 2** runs the deterministic and stochastic MCDA analysis and generates the tables, charts, and spatial figures used in the study
+- **Notebook 2** runs the deterministic and stochastic MCDA analysis and generates the tables, charts, spatial figures used in the study
 
 The study is based on five Eurostat criteria:
 - ICT specialists share in total employment
@@ -26,10 +26,10 @@ The study is based on five Eurostat criteria:
 ## Repository structure
 
 - `notebooks/01_build_eurostat_decision_matrix.ipynb`  
-  Upstream notebook for Eurostat extraction, filtering, completeness checks, and decision matrix construction.
+  Upstream notebook for Eurostat extraction, filtering, completeness checks, decision matrix construction.
 
 - `notebooks/02_spatial_decision_robustness_dashboard.ipynb`  
-  Downstream notebook for preprocessing, deterministic MCDA, stochastic robustness analysis, local Dirichlet sensitivity, and static spatial visualization.
+  Downstream notebook for preprocessing, deterministic MCDA, stochastic robustness analysis, local Dirichlet sensitivity, static spatial visualization.
 
 - `data/Decision_Matrix_24x5_Eurostat_2022.csv`  
   Validated reference matrix used for the 2022 experiment reported in the article.
@@ -64,4 +64,4 @@ The bundled 2022 matrix is provided for immediate replication of the reported re
 
 ## Supplementary material note
 
-This repository is provided as supplementary material for transparency, reproducibility, and review.
+This repository is provided as supplementary material for transparency, reproducibility and review.
