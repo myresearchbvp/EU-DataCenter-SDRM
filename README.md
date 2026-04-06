@@ -1,4 +1,4 @@
-# Supplementary Material - Spatial Decision Robustness Mapping for geo-distributed data center siting in Europe
+# Supplementary Material - Spatial Decision Support for Geo-Distributed Data Center Siting in Europe: Regional Ranking and Robustness under Weight Uncertainty
 
 ## Open in Colab
 
