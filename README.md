@@ -89,6 +89,6 @@ If you use this repository, please cite the associated article:
 
 Bresfelean, V.P.; Comes, C.-A.; Pop-Nistor, P. Macro-Regional Spatial Decision Support for Geo-Distributed Data Center Siting in Europe: Regional Screening and Robustness Under Weight Uncertainty. *ISPRS International Journal of Geo-Information* 2026, 15, 294. https://doi.org/10.3390/ijgi15070294
 
-## Supplementary material note
+## Repository note
 
-This repository is provided as supplementary material for transparency, reproducibility and review.
+This repository accompanies the published article and provides the data, code and figures needed to support transparency, reproducibility.
