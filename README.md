@@ -76,7 +76,7 @@ The study is based on five Eurostat criteria:
 
 1. Install the required packages listed in `requirements.txt`.
 2. Run `scripts/01_build_eurostat_decision_matrix.py` to rebuild and validate the Eurostat decision matrix, if needed.
-3. Run `scripts/02_spatial_decision_robustness_dashboard.py` to reproduce the deterministic MCDA, stochastic robustness analysis and spatial outputs.
+3. Run `scripts/02_spatial_decision_robustness_dashboard.py` to reproduce the deterministic MCDA, stochastic robustness analysis, spatial outputs.
 
 ## Reproducibility note
 
