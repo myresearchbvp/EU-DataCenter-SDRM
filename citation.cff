@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "EU-DataCenter-SDRM"
+message: "If you use this repository, please cite the associated article."
+type: software
+authors:
+  - family-names: Bresfelean
+    given-names: Vasile Paul
+  - family-names: Comes
+    given-names: Calin-Adrian
+  - family-names: Pop-Nistor
+    given-names: Paula
+repository-code: "https://github.com/myresearchbvp/EU-DataCenter-SDRM"
+license: MIT
+date-released: 2026-07-01
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Bresfelean
+      given-names: Vasile Paul
+    - family-names: Comes
+      given-names: Calin-Adrian
+    - family-names: Pop-Nistor
+      given-names: Paula
+  title: "Macro-Regional Spatial Decision Support for Geo-Distributed Data Center Siting in Europe: Regional Screening and Robustness Under Weight Uncertainty"
+  journal: "ISPRS International Journal of Geo-Information"
+  year: 2026
+  volume: 15
+  issue: 7
+  start: 294
+  doi: "10.3390/ijgi15070294"
+  url: "https://www.mdpi.com/2220-9964/15/7/294"
